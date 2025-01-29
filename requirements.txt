@@ -1,3 +1,5 @@
 torch
-zetascale
-swarms
+mamba_ssm
+einops
+loguru
+transformers
