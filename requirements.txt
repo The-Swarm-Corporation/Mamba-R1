@@ -3,3 +3,4 @@ mamba_ssm
 einops
 loguru
 transformers
+zetascale
